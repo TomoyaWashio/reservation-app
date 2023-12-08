@@ -8,7 +8,7 @@ import { NavberComponent } from './common/navber/navber.component';
 @NgModule({
   declarations: [
     AppComponent,
-    NavberComponent
+    NavberComponent,
     ],
   imports: [
     BrowserModule,
